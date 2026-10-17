@@ -1,3 +1,3 @@
-const a=151;
-const b=171;
+const a=1511;
+const b=1711;
 console.log(a+b);
